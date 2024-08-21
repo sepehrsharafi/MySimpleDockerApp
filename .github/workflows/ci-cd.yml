@@ -35,4 +35,4 @@ jobs:
         uses: docker/build-push-action@v6
         with:
           push: true
-          tags: devops-app:latest
+          tags: sepehrsharafi/devops-app:latest
